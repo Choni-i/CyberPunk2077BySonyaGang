@@ -12,7 +12,7 @@ public class MainForm extends JFrame  {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.pack();
         this.setLocation(50,50);
-        ImageIcon image = new ImageIcon("src/zaba.jpg");
+        ImageIcon image = new ImageIcon("zaba.jpg");
         ZabaLabel.setIcon(image);
 
 
